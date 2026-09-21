@@ -1,0 +1,8 @@
+{
+  "firestore": {
+    "databaseId": "ai-studio-marketindexpro-8cf61b62-8a54-4663-bffb-fc9ba15eb5f3",
+    "rules": "firestore.rules",
+    "edition": "ENTERPRISE",
+    "dataAccessMode": "FIRESTORE_NATIVE"
+  }
+}
