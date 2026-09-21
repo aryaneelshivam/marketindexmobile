@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![MarketIndex-Pro Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 **A modern, real-time stock technical analysis, fundamental deep-dive screener, and market intelligence dashboard.**
 
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
